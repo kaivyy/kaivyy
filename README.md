@@ -2,8 +2,6 @@
 
 <img src="./photos/kaivybanner.png" alt="kaivylabs banner" width="100%" />
 
-# kaivylabs
-
 Systems architecture, autonomous agent infrastructure, reverse engineering, and embedded telemetry.
 
 <br />
