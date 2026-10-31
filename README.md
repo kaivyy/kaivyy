@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="./photos/kaivybanner.png" alt="kaivy labs banner" width="100%" />
+<img src="./photos/kaivybanner.png" alt="kaivylabs banner" width="100%" />
 
-# kaivy labs
+# kaivylabs
 
 Systems architecture, autonomous agent infrastructure, reverse engineering, and embedded telemetry.
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./photos/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./photos/Skills_Animation_White.gif">
+  <img alt="kaivylabs tech stack" src="./photos/Skills_Animation_Dark.gif" width="460" />
+</picture>
 
 </div>
 
